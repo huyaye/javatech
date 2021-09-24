@@ -14,3 +14,4 @@ bytecode 조작, reflection, proxy, annotation processor
 	Magic 어노테이션을 사용하는 프로젝트의 컴파일시점에 MagicMoja.java 파일을 Generation
 	mvn clean install 로 maven repository 에 설치
 	javatech 프로젝트의 com.jwryu.annotation.MasulsaAPT 클래스실행 테스트
+		target/generated-sources/annotations 에 MagicMoja.java 파일 생성된것을 확인.
